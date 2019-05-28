@@ -9,3 +9,6 @@ Revision: r1266 [2018-12-29]
 
 breed-mt7621-xiaomi-r3g.bin	2018-12-29 18:02 	103K
 https://breed.hackpascal.net/breed-mt7621-xiaomi-r3g.bin
+
+# CAUTION You need to modify boot sequence (edit partitions) or you will Brick your device
+Read 4pda.ru (RUSSIAN) Forum for details
